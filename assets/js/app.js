@@ -32,7 +32,6 @@ function startNewGame() {
 function checkGuess() {
     const userGuess = parseInt(inputField.value);
     
-    // Validate input
     if (isNaN(userGuess)) {
         messageDisplay.textContent = 'Please enter a valid number!';
         return;
