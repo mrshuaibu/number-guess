@@ -37,7 +37,7 @@ A fun number guessing game for IT students to practice their JavaScript skills.
 ![Game Screenshot](./assets/img/game-preview.png)
 
 ## Demo
-[Play it here](https://<your-username>.github.io/<repository-name>/)
+[Play it here](https://mrshuaibu.github.io/number-guess/)
 
 ## Development
 ### Code Snippet
